@@ -1,0 +1,13 @@
+Setting development environment at macOS
+
+1. Visit flutter.dev
+2. Download flutter SDK based on YOUR CHIP (Mine is M1: https://storage.googleapis.com/flutter_infra_release/releases/stable/macos/flutter_macos_arm64_3.13.8-stable.zip)
+3. Unzip it.
+4. Add flutter SDK path to bash (~/.zshrc) such as "export PATH=${PATH}:/path/to/flutter"
+5. Download android studio: https://developer.android.com/studio
+6. Install android studio.
+7. Set Flutter SDK path.
+8. Install Flutter plugin.
+9. Create Flutter project.
+10. Create android virtual device (avd).
+11. Run demo app & Check hot-reload.
